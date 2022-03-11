@@ -1,4 +1,4 @@
-*****Bachelorarbeit von Maren Schubert - Do-File
+*****Bachelorarbeit - Do-File
 
 *Zur Anpassung der entsprechenden Variablen werden zunächst alle irrelevanten Variablen *entfernt, sodass nur die relevanten Variablen im Datensatz verbleiben
 
